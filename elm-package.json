@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "Data that enters, updates, and exits",
+    "repository": "https://github.com/mgold/elm-join.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": ["Join"],
+    "dependencies": {
+        "elm-lang/core": "2.1.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.1 <= v < 0.16.0"
+}
